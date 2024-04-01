@@ -20,7 +20,7 @@ Chrome Dino Game Clone. 📚
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Chrome Dino Game](https://ralph2308s.github.io/chrome-dino-game/)
+- [Chrome Dino Game](https://ed-edgar-2308.github.io/chrome-dino-game/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -33,7 +33,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```
-git clone git@github.com:ralph2308s/chrome-dino-game.git
+git clone git@github.com:ed-edgar-2308/chrome-dino-game.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -42,11 +42,11 @@ git clone git@github.com:ralph2308s/chrome-dino-game.git
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ralph**
+👤 **Edgar**
 
-- GitHub: [ralph2308s](https://github.com/ralph2308s)
-- Twitter: [ralph2308s](https://twitter.com/ralph2308s)
-- LinkedIn: [ralph2308s](https://www.linkedin.com/in/ralph2308s/)
+- GitHub: [Edgar](https://github.com/ed-edgar-2308)
+- Twitter: [Edgar](https://twitter.com/)
+- LinkedIn: [Edgar](https://www.linkedin.com/in/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
